@@ -1,0 +1,7 @@
+path: path
+train: dataset\train\images
+val: dataset\valid\images
+test: dataset\test\images
+
+names:
+  0: license_plate
