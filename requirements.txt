@@ -5,3 +5,4 @@ pytesseract
 Pillow
 numpy
 matplotlib
+easyocr
